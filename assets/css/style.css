@@ -1,0 +1,74 @@
+body {
+    font-family:'Oswald', sans-serif;
+  }
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.logo{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+.navbar{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    background-color:#E26D5A;
+}
+
+header{
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    height: auto;
+    max-width: 100%;
+    padding-top: 30rem;
+
+}
+
+h1{
+    font-size: 4.5rem;
+    font-weight: 200;
+}
+.nombre{
+    font-weight: 700;
+    font-size: 4.5rem;
+    border-top: solid 2px white;
+}
+
+.carousel-indicators {
+    position: relative;
+    margin-top: 2rem;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:#373A3C;
+}
+.img-fluid{
+    max-height: 5rem;
+}
+#mistrabajos{
+    background-color: rgb(185, 69, 51);
+}
+.card{
+    border-color: #E26D5A;
+}
+.card-body{
+    border-top: 1px solid #DDDDDD;
+}     
+
+footer{
+    background-color: #E26D5A;
+}
+
+.redessociales a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0.2rem;
+  }
