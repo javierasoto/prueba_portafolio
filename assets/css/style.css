@@ -15,7 +15,7 @@ body * {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 1rem;
-    background-color:#E26D5A;
+    background-color:#f9c74f;
 }
 
 header{
@@ -48,23 +48,23 @@ h1{
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color:#373A3C;
+    background-color:#f9c74f;
 }
 .img-fluid{
-    max-height: 5rem;
+    max-height: 3.12rem;
 }
 #mistrabajos{
-    background-color: rgb(185, 69, 51);
+    background-color: #1a1606;
 }
 .card{
-    border-color: #E26D5A;
+    border-color:#1a1606;
 }
 .card-body{
     border-top: 1px solid #DDDDDD;
 }     
 
 footer{
-    background-color: #E26D5A;
+    background-color:#f9c74f;
 }
 
 .redessociales a {
@@ -72,3 +72,9 @@ footer{
     text-decoration: none;
     margin: 0.2rem;
   }
+mark{
+    background-color:#f9c74f;
+    display: inline-block;
+    line-height: 0em;
+    padding-bottom: 0.5em;
+}
