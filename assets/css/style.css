@@ -36,7 +36,7 @@ h1{
 .nombre{
     font-weight: 700;
     font-size: 4.5rem;
-    border-top: solid 2px white;
+    border-top: solid 2px #ffffff;
 }
 
 .carousel-indicators {
