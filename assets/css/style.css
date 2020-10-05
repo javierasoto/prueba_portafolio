@@ -18,7 +18,7 @@ body * {
 }
 
 header{
-    background-image: url('../img/bg_hero.jpg');
+    background-image: url('../img/be_hero1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -36,7 +36,7 @@ h1{
 .nombre{
     font-weight: 700;
     font-size: 4.5rem;
-    border-top: solid 2px #343a40;
+    border-top: solid 2px white;
 }
 
 .carousel-indicators {
